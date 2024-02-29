@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing:border-box;
+}
+body {
+    background-color:aquamarine ;
+}
+
+.container{
+   max-width: 900px;
+   margin: 0 auto;
+  
+}
+.apply_box{
+  max-width: 600px;
+  padding: 20px;
+  background-color: blanchedalmond;
+  margin: 0 auto;
+  margin-top: 40PX;
+  box-shadow: 4px 3px 5px rgba(1,1,1,0.5);
+  border-radius: 8px;
+}
+ 
+h1 {margin-bottom: 20px;}
+.form_control {
+    margin: 20px ;
+
+}
+ button {
+  border-radius: 4px;
+padding: 7px;
+background-color: rgb(27, 139, 59);
+color: aliceblue;
+  margin-left: 400px;
+ }
